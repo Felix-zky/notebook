@@ -13,8 +13,12 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 
 > 它是无处不在的：你可以将它放在你自己的站点上，按照规则编写CSS记录；亦可以将你写的文字移植到任何一个支持Markdown平台(gitbook、wordpress、简书、CSDN)，它都可以立即呈现出来；在一些不支持Markdown的平台你可以将它格式化成HTML、XML等等任何该平台支持的样子。它可以被移植到任何一个平台。再也不同担心复制过去的文字格式发生改变了，导致页面需要大量的调整。
 
-如果你认为我的笔记不错，需要保留一份，可以随时下载！你可以直接Clong或者使用右侧的Download ZIP亦可（个人比较推荐使用git进行Clong，可以随时pull最新的内容到本地。）
+如果你认为我的笔记不错，需要保留一份，可以随时下载！你可以打开我的GitHub地址：[GitHub-notebook](https://github.com/Felix-zky/notebook.git) 直接Clong或者使用右侧的Download ZIP亦可（个人比较推荐使用git进行Clong，可以随时pull最新的内容到本地。）
 
 如果我的内容有错误的话，也欢迎大家批评指正！
+***
+### 联系我
+1. 可以通过GitBook留言功能Contact联系我（推荐）。[Contact直达连接](https://www.gitbook.com/book/felix_z/notebook/contact)
+2. 可以通过GitHub提问功能Issues联系我。[Issues直达连接](https://github.com/Felix-zky/notebook/issues)
 
-暂时就写这么多吧，随时更新。
+我每天都会登录查看的，会及时回答问题！
