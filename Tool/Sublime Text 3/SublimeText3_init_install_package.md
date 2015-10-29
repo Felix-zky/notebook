@@ -19,11 +19,13 @@
 **4. LESS、Less2Css**
 
 　　动态层叠样式表语言，在LESS文件中嵌套式编写CSS，通过编译转化为CSS文件，极大的提高了CSS编写效率，使代码更加的清晰，使重用、修改更加的方便快捷。
+
 　　在Sublime Text中使用Less2Css需要lessc的支持，推荐的方法是Node.js，简单便捷，安装完Node.js后在`cmd`中输出`npm install less -g`即可，安装结束后输入`lessc`不报错表示安装成功，Sublime Text中使用`Alt+s`（默认）即可将LESS转换为CSS。
 
 **5. Markdown Preview**
 
 　　提供一套Markdown语言的解析方法，主要用于Markdown代码的本地预览，减少与服务器的传递，在本地编写正确后再上传。其他一些功能个人很少用到。
+
 　　安装完该插件后需要自定义设置预览快捷键，可以打开系统默认浏览器预览内容，将以下代码添加在Preferences->Key Bindings - User中：
 `{"keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"}}`
 
