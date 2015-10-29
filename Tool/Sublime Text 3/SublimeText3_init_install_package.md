@@ -4,7 +4,7 @@
 **在安装任何插件以前需要先安装Package Concrol。通过它才可以安装各种插件。**
 
 ---
-**1. Emmet**
+1. **Emmet**
 使用仿CSS选择器的语法来快速开发HTML和CSS，熟练使用Emmet语法可以提交HTML和CSS代码的书写效率。
 
 **2. JsFormat**
