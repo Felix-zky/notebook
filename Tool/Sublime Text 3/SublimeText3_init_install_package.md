@@ -32,3 +32,13 @@
 **6. Markdown Light**
 
 　　目前为止，本人非常喜欢的一套Markdown标签高亮插件，尤其是它的‘Dark’主题，非常美观！
+
+**7. APICloudLoader、APIcloudPackage、APICloudSnippets**
+
+　　APICloud是一套APP开发工具，可以将网页代码转化为APP页面，同时还提供了很多API接口，可以实现很多Android、IOS的原生功能。经过解析压缩后成为可安装的移动应用程序！
+
+　　APICloudLoader：APICloud真机同步插件，用于本地开发测试，可以使用真机（手机、PAD等移动设备）USB连接电脑，实现本地安装（iPhone手机需要下载iTunes，Android手机需要下载豌豆荚、91等手机助手）。Android还可以使用模拟器进行测试。
+
+　　APICloudSnippets：能够提示APICloud内置API接口。
+
+　　APICloudPackage：本地打包代码，将代码本地打包成apk或者ipa。
