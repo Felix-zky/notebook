@@ -6,3 +6,5 @@
         + [初始化](./Git/Other/Init.md)
 * [PHP](./PHP/README.md)
 * [Tool](./Tool/README.md)
+    - [Sublime Text3](./Tool/Sublime Text3/README.md)
+        + [初始化插件安装及介绍](./Tool/Sublime Text3/SublimeText3_init_install_package.md)
