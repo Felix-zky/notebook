@@ -16,18 +16,8 @@
     - [position - 位置](#position)
     - [determinePosition - ](#determineposition)
     - [callback - 回调](#callback)
-    - [build - 异步创建](#build)
-
+    - [build - 异步创建](#build)  
 <h4 id="register-new-contextmenu">注册一个新的右键菜单</h4>
-
-    $.contextMenu( options );
-
-```
-$.contextMenu( options );
-```
-
 ```javascript
 $.contextMenu( options );
 ```
-
-	$.contextMenu( options );
