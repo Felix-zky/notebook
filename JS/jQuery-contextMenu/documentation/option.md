@@ -22,6 +22,12 @@
 
     $.contextMenu( options );
 
-```$.contextMenu( options );```
+```
+$.contextMenu( options );
+```
+
+```javascript
+$.contextMenu( options );
+```
 
 	$.contextMenu( options );
