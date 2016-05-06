@@ -1,4 +1,4 @@
-## 创建与设置 ##
+### 创建与设置 ###
 - [注册一个新的右键菜单](#register-new-contextmenu)
 + [参数设置(在注册的时候)](#options-at-registration)
     - [selector - 选择器](#selector)
@@ -17,6 +17,5 @@
     - [determinePosition - ](#determineposition)
     - [callback - 回调](#callback)
     - [build - 异步创建](#build)
-### 注册一个新的右键菜单 ###
-
-    $.contextMenu( options );
+<h4 id="register-new-contextmenu">注册一个新的右键菜单</h4>
+	$.contextMenu( options );
