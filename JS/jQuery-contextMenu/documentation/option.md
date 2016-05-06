@@ -1,6 +1,6 @@
 ## 创建与设置 ##
-* [注册一个新的右键菜单](#register-new-contextmenu)
-* [参数设置(在注册的时候)](#options-at-registration)
+- [注册一个新的右键菜单](#register-new-contextmenu)
++ [参数设置(在注册的时候)](#options-at-registration)
     - [selector - 选择器](#selector)
     - [items - 菜单](#items)
     - [appendTo - 追加](#appendto)
