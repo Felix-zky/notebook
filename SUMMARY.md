@@ -2,9 +2,9 @@
 * [序](./README.md)
 * [PHP](./PHP/README.md)
 * [javaScript](./JS/README.md)
-    + [jQuery-contentMenu](./JS/jQuery-contentMenu/README.md)
+    + [jQuery-contentMenu](./JS/jQuery_contentMenu/README.md)
         + [属性（参数）解析]
-            - [创建与设置](./JS/jQuery-contentMenu/documentation/option.md)
+            - [创建与设置](./JS/jQuery_contentMenu/documentation/option.md)
         + [演示]
 * [Git](./Git/README.md)
     + [Git命令学习](./Git/LearnCommand/README.md)
